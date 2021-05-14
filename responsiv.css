@@ -1,0 +1,49 @@
+@media (max-width:665px){
+
+    body{
+        width: 100vw;
+        height: 100vh;
+    }
+    
+    .container{
+        width: 85%;
+        justify-content: center;
+        text-align: center;
+        margin:0 auto;
+        margin-top: 100px;
+        margin-left: 6%;
+        padding: 10px 5px;
+    }
+    
+    .countdown-container{
+        width: 100%;
+    }
+    
+    .heading h1{
+        font-size: 30px;
+        margin-top: 0rem;
+        font-weight: 600;
+        color: rgb(255 255 255);
+        line-height: 1;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .hText{
+        font-size: 35px;
+        line-height: 1;
+        margin: 0 20px 20px;
+        font-weight: bold;
+    }
+    
+    .countdown-el span{
+        font-size: 20px;
+        color: rgb(216 255 213);
+        font-weight: 600;
+        width: 100%;
+        /* position: fixed; */
+        display: block;
+        text-align: center;
+    }
+    
+    }
