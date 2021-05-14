@@ -6,12 +6,12 @@
     }
     
     .container{
-        width: 85%;
+        width: 90%;
         justify-content: center;
         text-align: center;
         margin:0 auto;
         margin-top: 100px;
-        margin-left: 6%;
+        margin-left: 5%;
         padding: 10px 5px;
     }
     
@@ -30,14 +30,14 @@
         margin-bottom: 20px;
     }
     .hText{
-        font-size: 35px;
+        font-size: 23px;
         line-height: 1;
         margin: 0 20px 20px;
         font-weight: bold;
     }
     
     .countdown-el span{
-        font-size: 20px;
+        font-size: 15px;
         color: rgb(216 255 213);
         font-weight: 600;
         width: 100%;
